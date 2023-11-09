@@ -7,4 +7,4 @@ import pandas as pd
 dji = pd.read_csv("https://uzairname.github.io/datasets/dji.csv")
 ```
 
-https://github.com/uzairname/datasets
+[github.com/uzairname/datasets](https://github.com/uzairname/datasets)
